@@ -1,4 +1,8 @@
 print('Проект башталды')
-def num(a,b):
-    return a+b
-print(num(2, 3))
+
+
+def add(a,b):
+    return a-b
+add(6,20)
+
+
